@@ -1,3 +1,7 @@
+# [이 글씨를 클릭해 게임플레이](https://cskdl.github.io/DokkebiTaimer/)
+---
+---
+---
 # 사용 폰트
 ### [김정철서체](http://font.junglim.com/)
 
